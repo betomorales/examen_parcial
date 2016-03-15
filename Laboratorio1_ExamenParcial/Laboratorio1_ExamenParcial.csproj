@@ -67,6 +67,8 @@
   <ItemGroup>
     <Compile Include="LogicaNegocio\Acciones\EsColumna.cs" />
     <Compile Include="LogicaNegocio\Acciones\EsCuadrada.cs" />
+    <Compile Include="LogicaNegocio\Acciones\EsDiagonal.cs" />
+    <Compile Include="LogicaNegocio\Acciones\EsEscalar.cs" />
     <Compile Include="LogicaNegocio\Acciones\EsFila.cs" />
     <Compile Include="LogicaNegocio\Acciones\EsNula.cs" />
     <Compile Include="LogicaNegocio\Acciones\Multiplicacion.cs" />
