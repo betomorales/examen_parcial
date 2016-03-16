@@ -60,6 +60,7 @@
     <Compile Include="16-ObtenerDiagonal.cs" />
     <Compile Include="3-Multiplicacion.cs" />
     <Compile Include="4-Transpuesta.cs" />
+    <Compile Include="5-EsSimetrica.cs" />
     <Compile Include="7-EsNula.cs" />
     <Compile Include="9-EsColumna.cs" />
     <Compile Include="8-EsFila.cs" />
