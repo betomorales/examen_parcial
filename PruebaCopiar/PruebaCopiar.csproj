@@ -56,6 +56,8 @@
     <Compile Include="10-EsCuadrada.cs" />
     <Compile Include="11-EsDiagonal.cs" />
     <Compile Include="12-EsEscalar.cs" />
+    <Compile Include="13-EsIdentidad.cs" />
+    <Compile Include="16-ObtenerDiagonal.cs" />
     <Compile Include="3-Multiplicacion.cs" />
     <Compile Include="4-Transpuesta.cs" />
     <Compile Include="7-EsNula.cs" />

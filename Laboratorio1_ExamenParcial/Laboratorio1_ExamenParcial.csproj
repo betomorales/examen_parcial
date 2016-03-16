@@ -70,9 +70,11 @@
     <Compile Include="LogicaNegocio\Acciones\EsDiagonal.cs" />
     <Compile Include="LogicaNegocio\Acciones\EsEscalar.cs" />
     <Compile Include="LogicaNegocio\Acciones\EsFila.cs" />
+    <Compile Include="LogicaNegocio\Acciones\EsIdentidad.cs" />
     <Compile Include="LogicaNegocio\Acciones\EsNula.cs" />
     <Compile Include="LogicaNegocio\Acciones\Multiplicacion.cs" />
     <Compile Include="LogicaNegocio\Acciones\MultiplicarPorEscalar.cs" />
+    <Compile Include="LogicaNegocio\Acciones\ObtenerDiagonal.cs" />
     <Compile Include="LogicaNegocio\Acciones\SumaOResta.cs" />
     <Compile Include="LogicaNegocio\Acciones\Transpuesta.cs" />
     <Compile Include="Service1.svc.cs">
